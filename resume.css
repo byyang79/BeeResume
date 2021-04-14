@@ -29,7 +29,7 @@ a {
     text-decoration: none;
     
 }
-#major1, #major2, #ge, #oshkosh, #heart {
+#major1, #major2, #ge, #oshkosh, #assistant {
     font-weight: bold;
 }
 img {
@@ -49,7 +49,7 @@ img {
 .school {
     margin-bottom: 16px;
 }
-ol {
+ul {
     margin-top: 3px;
     font-style: italic;
 }
